@@ -1,9 +1,6 @@
 # AMAL ANTONY PULIMOOTTIL
 # 2148371
-# References : Financial Programming by Ritvik : Pricing of European Options using Monte Carlo. YouTube channel
-#            : QuantPy  . Monte Carlo Simulation for option pricing with python. YouTube channel
-#            : https://github.com/constantinidan/Asian-option-pricing-model/blob/master/AsianOptionPricing.py
-
+# project for predicting the price of Asian Options using Monte Carlo simulation and Geometric Brownian Model for price movements
 
 
 
