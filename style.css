@@ -1,0 +1,69 @@
+body {
+
+    background-color: #85FFBD;
+    background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
+}
+
+.call-page {
+
+    max-width: 500px;
+    margin: 2rem auto;
+    border: 2px solid #000000;
+    padding: 6rem;
+    background-color: #8BC6EC;
+    background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
+
+
+
+
+
+
+}
+
+label {
+    display: block;
+    font-family: "Poppins", sans-serif;
+    color: #000000;
+    font-weight: 500;
+    text-decoration: none;
+    letter-spacing: 3px;
+    border-radius: 5px;
+}
+
+input,
+textarea {
+
+    display: block;
+    width: 100%;
+    border: 2px solid #111451;
+    padding: 10px;
+    font-family: "Poppins", sans-serif;
+    color: #ffffff;
+    font-weight: 500;
+    text-decoration: none;
+    letter-spacing: 3px;
+    border-radius: 5px;
+
+}
+
+button {
+
+    background: linear-gradient(#9365ff,
+            #6f3bff);
+
+
+    height: 60px;
+    width: 190px;
+
+    place-items: center;
+    font-family: "Poppins", sans-serif;
+    color: #ffffff;
+    font-weight: 500;
+    text-decoration: none;
+    letter-spacing: 3px;
+    border-radius: 5px;
+}
+
+p {
+    text-align: center;
+}
