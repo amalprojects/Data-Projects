@@ -1,6 +1,6 @@
 # Description
 
-Most of the projects you will go through above are a "Data Analyst" oriented projects. I have tried to apply my knowledge of python and SQL to different side projects which 
+Most of the projects you will go through above are  "Data Analyst" oriented projects. I have tried to apply my knowledge of python and SQL to different side projects which 
 I did along with my studies. 
 
 I am also interested in Data Engineering and Machine Learning which I consider very important for two different reasons. As of now researching and analyzing data is what I 
